@@ -1,0 +1,16 @@
+C:\Users\jamal kakasouri\Desktop\ADV\ADV\bin\Debug\ADV.exe.config
+C:\Users\jamal kakasouri\Desktop\ADV\ADV\bin\Debug\ADV.exe
+C:\Users\jamal kakasouri\Desktop\ADV\ADV\bin\Debug\ADV.pdb
+C:\Users\jamal kakasouri\Desktop\ADV\ADV\obj\Debug\MainWindow.baml
+C:\Users\jamal kakasouri\Desktop\ADV\ADV\obj\Debug\MainWindow.g.cs
+C:\Users\jamal kakasouri\Desktop\ADV\ADV\obj\Debug\App.g.cs
+C:\Users\jamal kakasouri\Desktop\ADV\ADV\obj\Debug\ADV_MarkupCompile.cache
+C:\Users\jamal kakasouri\Desktop\ADV\ADV\obj\Debug\ADV.g.resources
+C:\Users\jamal kakasouri\Desktop\ADV\ADV\obj\Debug\ADV.Properties.Resources.resources
+C:\Users\jamal kakasouri\Desktop\ADV\ADV\obj\Debug\ADV.csproj.GenerateResource.Cache
+C:\Users\jamal kakasouri\Desktop\ADV\ADV\obj\Debug\ADV.exe
+C:\Users\jamal kakasouri\Desktop\ADV\ADV\obj\Debug\ADV.pdb
+C:\Users\jamal kakasouri\Desktop\ADV\ADV\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jamal kakasouri\Desktop\ADV\ADV\obj\Debug\ADV_MarkupCompile.lref
+C:\Users\jamal kakasouri\Desktop\ADV\ADV\obj\Debug\App.baml
+C:\Users\jamal kakasouri\Desktop\ADV\ADV\obj\Debug\SampleData\DataXMLSampleDataSource\DataXMLSampleDataSource.baml
